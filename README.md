@@ -87,11 +87,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 We welcome contributions to enhance this vector store implementation. Please fork the repository and submit a pull request with your changes.
 
-## Contact
-
-For further questions or assistance, please contact us at [your-email@example.com].
-
----
+-----------------------------------------------------------------------------------------------------------------------------
 
 Happy coding!
-```
